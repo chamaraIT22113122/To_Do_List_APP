@@ -12,7 +12,7 @@ Perfect for students, professionals, or anyone who wants to boost productivity a
 
 ![App Screenshot](https://github.com/user-attachments/assets/1dd0ce37-7a9e-4ecf-b1e5-a8cda0d7e06c)
 
-![App Screenshot]![2](https://github.com/user-attachments/assets/4c472785-70cb-4064-99e3-2d884aa0f66a)
+![App Screenshot](https://github.com/user-attachments/assets/4c472785-70cb-4064-99e3-2d884aa0f66a)
 
 ![App Screenshot](https://github.com/user-attachments/assets/5d5612b3-cc5f-4f55-b33b-b19145bc624e)
 
